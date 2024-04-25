@@ -1,0 +1,13 @@
+Diagrama de clases
+La relación entre la clase heladería y las demás podrían ser una herencia.
+En general las clases indicadas son correctas, como en el diagrama de E/R serían las entidades sobre las que vamos a guardar información.
+
+Diagrama de despliegue
+Si cada servidor se encuentra alojado en una máquina diferente el diagrama es correcto, cada nodo es un dispositivo.
+
+Diagrama de actividades
+El diagrama de actividades está bien pero contempla toda la funcionalidad de la aplicación. Suele realizarse de una función sola.
+
+
+
+
